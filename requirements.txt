@@ -1,0 +1,7 @@
+line-bot-sdk
+flask
+numpy
+scipy
+scikit-learn
+jieba
+Flask-APScheduler
